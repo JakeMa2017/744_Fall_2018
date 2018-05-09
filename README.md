@@ -6,4 +6,7 @@
 * Using IFTTT to export location and temperature data to a Google Sheet
 * Visualize coordiantes using external sources
 
+Source code is in MapWithTemp folder.
+
+
 Map: https://www.darrinward.com/lat-long/
